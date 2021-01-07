@@ -1,3 +1,8 @@
+# Docker images
+
+* aspichakou/sova-tts-aio - all in one; 2 voices (Natasha, Ruslan)
+* aspichakou/sova-tts-aio-natasha - Natasha voice only
+
 # SOVA TTS
 
 SOVA TTS is a speech syntthesis solution based on [Tacotron 2](https://arxiv.org/abs/1712.05884) architecture. It is designed as a REST API service and it can be customized (both code and models) for your needs.
